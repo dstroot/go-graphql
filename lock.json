@@ -1,0 +1,21 @@
+{
+    "memo": "5325434c00c361f585fd0aba9b85bd64ff07865567eafb0ade5e9cd2f9e660c7",
+    "projects": [
+        {
+            "name": "github.com/graphql-go/graphql",
+            "branch": "master",
+            "revision": "7731016ba482d3741eea075d23dc6366b932f8f4",
+            "packages": [
+                "."
+            ]
+        },
+        {
+            "name": "github.com/graphql-go/handler",
+            "version": "v0.2.0",
+            "revision": "fb144b8b1e2e8ad591a72a481c3042212a5ddc2e",
+            "packages": [
+                "."
+            ]
+        }
+    ]
+}
