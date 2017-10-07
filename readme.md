@@ -27,7 +27,11 @@ You can also just run `http://localhost:8080` to bring up the IDE in a browser. 
 
 ![alt text](GraphiQL.png "GraphiQL")
 
+### References
+
 [GraphQL](http://graphql.org/): GraphQL is a query language for APIs and a runtime for fulfilling those queries with your existing data. 
+
+[graphql-go](https://github.com/graphql-go/graphql): A work-in-progress implementation of GraphQL in Go.
 
 [GraphiQL](https://github.com/graphql/graphiql): A graphical interactive in-browser GraphQL IDE
 
